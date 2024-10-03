@@ -10,5 +10,4 @@ I am a passionate front-end developer currently working at [Datawiz.io](https://
 - 🌐 I’m interested in web accessibility and performance optimization.
 - 🎨 I enjoy experimenting with new front-end tools and libraries.
 - 📫 How to reach me: [kovpak.maksym@gmail.com](mailto:kovpak.maksym@gmail.com)
-- 😄 Pronouns: He/Him
 - 🎧 Fun fact: I love listening to music across various genres and always have a playlist ready for any mood!
