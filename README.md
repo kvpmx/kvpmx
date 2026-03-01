@@ -1,13 +1,8 @@
-# Hi there, I'm Maksym 👋
+# Hey, I'm Maksym 👋
 
-[![Maksym Kovpak profile views](https://u8views.com/api/v1/github/profiles/97964190/views/day-week-month-total-count.svg)](https://u8views.com/github/maks-kovpak)
+Front-end developer at [Datawiz.io](https://datawiz.io/en/), crafting fast, accessible, and visually sharp web apps. I care deeply about the details — the kind of stuff users never notice when it's done right, but immediately feel when it's not.
 
-I am a passionate front-end developer currently working at [Datawiz.io](https://datawiz.io/en/). I love crafting interactive and dynamic web applications with a focus on performance and user experience.
+I spend most of my time in the front-end ecosystem, chasing better performance, cleaner architecture, and smoother user experiences. Outside of work, I'm probably tweaking a side project, exploring a new library, or curating the perfect playlist for a 2am coding session.
 
-## 🚀 About Me
-
-- 🌱 I’m currently learning advanced front-end frameworks and tools.
-- 🌐 I’m interested in web accessibility and performance optimization.
-- 🎨 I enjoy experimenting with new front-end tools and libraries.
-- 📫 How to reach me: [kovpak.maksym@gmail.com](mailto:kovpak.maksym@gmail.com)
-- 🎧 Fun fact: I love listening to music across various genres and always have a playlist ready for any mood!
+_Want to talk code, collab, or anything in between?_
+📬 [kovpak.maksym@gmail.com](mailto:kovpak.maksym@gmail.com)
